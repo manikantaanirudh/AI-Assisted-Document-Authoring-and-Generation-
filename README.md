@@ -8,7 +8,7 @@ A full-stack web application that allows authenticated users to generate, refine
 - **Backend**: FastAPI (Python 3.11+)
 - **Database**: PostgreSQL
 - **Authentication**: JWT (OAuth2 password + bearer)
-- **LLM**: Configurable adapter (OpenAI/Gemini)
+- **LLM**: Configurable adapter (Gemini)
 - **Export Libraries**: python-docx, python-pptx
 
 ## Project Structure
@@ -289,13 +289,5 @@ npm start
 
 This project is created for educational/assignment purposes.
 
-## Demo Video
 
-A 5-10 minute demo video should cover:
-- User registration & login
-- Configuring a Word document
-- Configuring a PowerPoint document
-- Content generation
-- Refinement (AI edits, like/dislike, comments)
-- Exporting .docx and .pptx files
 
