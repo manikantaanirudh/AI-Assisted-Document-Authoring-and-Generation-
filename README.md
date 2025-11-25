@@ -149,6 +149,10 @@ pytest
 cd frontend
 npm test
 ```
+### Demo video link
+https://drive.google.com/file/d/12vyL_yqHvxjQkaKlbV8-PM2stY588I0j/view?usp=sharing
+
+
 
 ## Usage Examples
 
